@@ -401,3 +401,6 @@ TypeError: unsupported operand type(s) for |: 'str' and 'str'
 2022-05-20 15:24:40,060 INFO werkzeug: 127.0.0.1 - - [20/May/2022 15:24:40] "[33mGET /tweets/ HTTP/1.1[0m" 404 -
 2022-05-20 15:25:16,487 INFO app: Positive and negative tweets available for vaccine  biontech!
 2022-05-20 15:25:16,489 INFO werkzeug: 127.0.0.1 - - [20/May/2022 15:25:16] "GET /tweets/BioNTech HTTP/1.1" 200 -
+2022-05-29 15:06:22,225 WARNING werkzeug:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-05-29 15:06:22,225 INFO werkzeug:  * Running on http://145.108.66.20:5050/ (Press CTRL+C to quit)
